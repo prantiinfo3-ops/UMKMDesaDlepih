@@ -1,28 +1,13 @@
 # ============================================================
 # Konfigurasi CMS untuk web UMKM Dlepih
-# ============================================================
-# ⚠️ BAGIAN "backend" DI BAWAH INI PERLU DIISI SESUAI PILIHAN CMS:
-#
-# Kalau pilih "Sveltia CMS + GitHub OAuth":
-#   backend:
-#     name: github
-#     repo: NAMA-AKUN-GITHUB/umkm-dlepih   <-- ganti sesuai repo kamu
-#     branch: main
-#
-# Kalau pilih "Sveltia CMS + DecapBridge":
-#   backend:
-#     name: git-gateway
-#     repo: NAMA-AKUN-GITHUB/umkm-dlepih
-#     branch: main
-#   (lalu ada 1-2 baris tambahan dari dokumentasi DecapBridge saat setup)
-#
-# Baris di bawah ini SEMENTARA dikosongkan dulu — akan saya isi begitu
-# kamu sudah putuskan opsi mana yang dipakai.
+# Login admin: Sveltia CMS + GitHub OAuth (via Netlify sebagai OAuth proxy)
+# Client ID & Client Secret GitHub OAuth App DIDAFTARKAN LANGSUNG di
+# Netlify: Project configuration > Access & security > OAuth — BUKAN di sini.
 # ============================================================
 
 backend:
   name: github
-  repo: GANTI-DENGAN-username/nama-repo
+  repo: prantiinfo3-ops/tesssaaaaaaa
   branch: main
 
 media_folder: "images/cms-uploads"
