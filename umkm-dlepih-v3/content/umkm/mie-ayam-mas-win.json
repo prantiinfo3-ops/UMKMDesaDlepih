@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "kategori": "Kuliner",
+  "nama": "Mie Ayam Mas Win",
+  "usp": null,
+  "deskripsi": "Mie Ayam Mas Win menyediakan mie ayam dengan topping Telur, dengan cita rasa rumahan dan tanpa tambahan pengawet, dijamin nagih terus!",
+  "harga": "Rp 10.000",
+  "telepon": "6281338261101",
+  "dusun": "Dusun Sumberjo, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/x4WVKdPV5H9szEx59",
+  "slug": "mie-ayam-mas-win",
+  "gambar": [
+    "images/produk/mie-ayam-mas-win/1.jpg",
+    "images/produk/mie-ayam-mas-win/2.jpg",
+    "images/produk/mie-ayam-mas-win/3.jpg"
+  ]
+}

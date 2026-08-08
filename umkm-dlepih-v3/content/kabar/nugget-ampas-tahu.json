@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "slug": "nugget-ampas-tahu",
+  "badge": "Inovasi Pangan",
+  "judul": "Nugget Ampas Tahu",
+  "gambar": "images/inovasi/nugget-ampas-tahu.jpg",
+  "ringkasan": "Mengubah ampas tahu yang biasa dianggap limbah menjadi camilan nugget bergizi dan bernilai jual, lewat workshop bersama ibu-ibu PKK Desa Dlepih.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Nugget ampas tahu merupakan inovasi olahan pangan yang memanfaatkan ampas tahu sebagai bahan baku bernilai tambah. Meskipun sering dianggap sebagai limbah, ampas tahu masih mengandung protein, serat, dan zat gizi lainnya. Melalui proses pengolahan yang tepat, ampas tahu dapat diolah menjadi nugget yang lezat, bergizi, dan disukai berbagai kalangan."
+    },
+    {
+      "tipe": "p",
+      "teks": "Sebagai upaya meningkatkan nilai tambah pangan lokal, telah dilaksanakan workshop pembuatan nugget ampas tahu bersama ibu-ibu PKK Desa Dlepih. Kegiatan ini membekali peserta dengan keterampilan mengolah ampas tahu menjadi produk yang memiliki nilai jual, sekaligus mengurangi limbah pangan dan memperkuat pemberdayaan ekonomi keluarga melalui peran aktif ibu-ibu PKK."
+    }
+  ],
+  "pdf": "images/inovasi/INOVASI_AMPAS_TAHU.pdf",
+  "appUrl": null,
+  "appLabel": null
+}

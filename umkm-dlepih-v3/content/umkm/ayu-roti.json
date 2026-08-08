@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "kategori": "Kuliner",
+  "nama": "Ayu roti",
+  "usp": "Menggunakan Telur bebek yang membuat adona tidak lengket saat dikunyah",
+  "deskripsi": "Bolu nempel di langit mulut? No More! Menggunakan Telur Bebek, Roti Ayu menyediakan Bolu Kering dengan kualitas terbaik!",
+  "harga": "Mulai dari Rp 2000/pcs",
+  "telepon": "6285896105513",
+  "dusun": "Dusun Dlepih, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/LhKGsmDJnoQhBJiL9",
+  "slug": "ayu-roti",
+  "gambar": [
+    "images/produk/ayu-roti/1.jpg",
+    "images/produk/ayu-roti/2.jpg",
+    "images/produk/ayu-roti/3.jpg"
+  ]
+}

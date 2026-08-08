@@ -1,0 +1,17 @@
+{
+  "id": 22,
+  "kategori": "Hasil Bumi",
+  "nama": "Beras Ndeso",
+  "usp": null,
+  "deskripsi": "Beras Ndeso menghadirkan beras yang diproses secara tradisional untuk menghasilkan beras berkualitas dengan tekstur pulen dan cita rasa alami.",
+  "harga": "Hubungi penjual",
+  "telepon": "6281225055290",
+  "dusun": "Dusun Dlepih, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/dadL9vU7aPFy8dMZA",
+  "slug": "beras-ndeso",
+  "gambar": [
+    "images/produk/beras-ndeso/1.jpg",
+    "images/produk/beras-ndeso/2.jpg",
+    "images/produk/beras-ndeso/3.jpg"
+  ]
+}

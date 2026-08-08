@@ -1,0 +1,17 @@
+{
+  "id": 18,
+  "kategori": "Lainnya",
+  "nama": "Toko Hadi",
+  "usp": "Menyediakan ATM mini",
+  "deskripsi": "Toko Hadi adalah warung yang menjual berbagai hal dari makanan dan minuman ringan, sembako, dan juga sebagai tempat penyedia jasa  ATM mini yang dapat membantumu melakukan setor dan tarik tunai.",
+  "harga": "Hubungi penjual",
+  "telepon": "6282138885641",
+  "dusun": "Dusun Dlepih, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/Zpb56oc24t42j6ys6",
+  "slug": "toko-hadi",
+  "gambar": [
+    "images/produk/toko-hadi/1.jpg",
+    "images/produk/toko-hadi/2.jpg",
+    "images/produk/toko-hadi/3.jpg"
+  ]
+}

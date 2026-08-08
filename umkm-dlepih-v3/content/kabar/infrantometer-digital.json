@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "slug": "infrantometer-digital",
+  "badge": "Inovasi Teknologi",
+  "judul": "Infrantometer Digital",
+  "gambar": "images/inovasi/infrantometer-digital.jpg",
+  "ringkasan": "Alat ukur panjang badan bayi berbasis Arduino Uno dan sensor jarak, dibuat untuk membantu kader Posyandu mengukur balita lebih cepat dan nyaman.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Alat Infantometer Digital berbasis Arduino Uno yang dirancang untuk membantu proses pengukuran panjang badan bayi secara lebih cepat dan efisien. Alat menggunakan sensor jarak VL53Lx V2 (ToF) untuk mendeteksi jarak antara sensor dengan pembatas kaki bayi, kemudian data tersebut diolah oleh Arduino Uno dan ditampilkan dalam satuan sentimeter melalui LCD 16x2 I2C. Pada tahap prototipe, rangkaian dibuat menggunakan breadboard dan kabel jumper, sehingga tidak memerlukan proses penyolderan dan lebih mudah untuk dikembangkan maupun diperbaiki."
+    },
+    {
+      "tipe": "p",
+      "teks": "Infantometer Digital ini ditujukan untuk kader Posyandu sebagai alat bantu dalam melakukan pengukuran panjang badan bayi, khususnya bayi yang masih harus diukur dalam posisi telentang. Inovasi ini dibuat dengan mempertimbangkan kenyamanan bayi sebagai pengguna yang membutuhkan pengukuran, karena proses pengukuran manual dapat membutuhkan waktu lebih lama ketika posisi kepala dan kaki harus disesuaikan oleh kader. Dengan sensor ToF, proses pembacaan dapat dilakukan dalam beberapa detik sehingga diharapkan dapat mengurangi waktu pengukuran dan membuat bayi tidak perlu terlalu lama berada dalam posisi yang kurang nyaman."
+    }
+  ],
+  "pdf": null,
+  "appUrl": null,
+  "appLabel": null
+}

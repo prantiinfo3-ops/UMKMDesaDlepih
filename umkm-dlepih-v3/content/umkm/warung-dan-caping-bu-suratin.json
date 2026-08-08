@@ -1,0 +1,17 @@
+{
+  "id": 12,
+  "kategori": "Kerajinan",
+  "nama": "Warung dan Caping Bu Suratin",
+  "usp": "Menyediakan berbagai ukuran caping yang dapat dipesan untuk berbagai kebutuhanmu",
+  "deskripsi": "Warung dan Caping Bu Suratin menyediakan berbagai jajanan warung dari makanan ringan hingga kebutuhan lainnya. Selain itu, tersedia pula berbagai ukuran caping yang dapat dipesan untuk berbagai kebutuhanmu",
+  "harga": "15000 - 17000",
+  "telepon": "6285229635982",
+  "dusun": "Dusun Sugihan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/ci6xpyPvdnRZbuSEA",
+  "slug": "warung-dan-caping-bu-suratin",
+  "gambar": [
+    "images/produk/warung-dan-caping-bu-suratin/1.jpg",
+    "images/produk/warung-dan-caping-bu-suratin/2.jpg",
+    "images/produk/warung-dan-caping-bu-suratin/3.jpg"
+  ]
+}

@@ -1,0 +1,88 @@
+# ============================================================
+# Konfigurasi CMS untuk web UMKM Dlepih
+# ============================================================
+# ⚠️ BAGIAN "backend" DI BAWAH INI PERLU DIISI SESUAI PILIHAN CMS:
+#
+# Kalau pilih "Sveltia CMS + GitHub OAuth":
+#   backend:
+#     name: github
+#     repo: NAMA-AKUN-GITHUB/umkm-dlepih   <-- ganti sesuai repo kamu
+#     branch: main
+#
+# Kalau pilih "Sveltia CMS + DecapBridge":
+#   backend:
+#     name: git-gateway
+#     repo: NAMA-AKUN-GITHUB/umkm-dlepih
+#     branch: main
+#   (lalu ada 1-2 baris tambahan dari dokumentasi DecapBridge saat setup)
+#
+# Baris di bawah ini SEMENTARA dikosongkan dulu — akan saya isi begitu
+# kamu sudah putuskan opsi mana yang dipakai.
+# ============================================================
+
+backend:
+  name: github
+  repo: GANTI-DENGAN-username/nama-repo
+  branch: main
+
+media_folder: "images/cms-uploads"
+public_folder: "/images/cms-uploads"
+
+collections:
+  - name: "umkm"
+    label: "Katalog UMKM"
+    folder: "content/umkm"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "ID", name: "id", widget: "number", required: false, hint: "Biarkan kosong untuk item baru, isi angka unik" }
+      - { label: "Nama Usaha", name: "nama", widget: "string" }
+      - label: "Kategori"
+        name: "kategori"
+        widget: "select"
+        options: ["Kuliner", "Kerajinan", "Hasil Bumi"]
+      - { label: "Keunggulan Singkat (opsional)", name: "usp", widget: "string", required: false }
+      - { label: "Deskripsi", name: "deskripsi", widget: "text" }
+      - { label: "Harga", name: "harga", widget: "string", hint: "Contoh: Mulai dari Rp15.000" }
+      - { label: "Nomor WhatsApp", name: "telepon", widget: "string", hint: "Format: 62812xxxxxxx (tanpa +/spasi/strip)" }
+      - { label: "Dusun / Alamat", name: "dusun", widget: "string" }
+      - { label: "Link Google Maps", name: "maps", widget: "string", required: false }
+      - { label: "Slug (untuk URL)", name: "slug", widget: "string", hint: "huruf kecil, pisah pakai strip, contoh: ayu-roti" }
+      - label: "Foto Produk"
+        name: "gambar"
+        widget: "list"
+        field: { label: "Foto", name: "src", widget: "image" }
+
+  - name: "kabar"
+    label: "Kabar Dlepih"
+    folder: "content/kabar"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "ID", name: "id", widget: "number", required: false, hint: "Biarkan kosong untuk item baru, isi angka unik" }
+      - { label: "Slug (untuk URL)", name: "slug", widget: "string" }
+      - label: "Kategori/Badge"
+        name: "badge"
+        widget: "select"
+        options: ["Inovasi Pangan", "Inovasi Teknologi", "Edukasi Anak", "Legalitas Usaha", "Legalitas Tanah"]
+      - { label: "Judul", name: "judul", widget: "string" }
+      - { label: "Gambar Sampul", name: "gambar", widget: "image" }
+      - { label: "Ringkasan Singkat", name: "ringkasan", widget: "text" }
+      - label: "Isi Lengkap"
+        name: "isi"
+        widget: "list"
+        fields:
+          - label: "Tipe"
+            name: "tipe"
+            widget: "select"
+            options: ["p", "bold", "ul", "ol"]
+            hint: "p = paragraf, bold = teks tebal, ul/ol = daftar list"
+          - { label: "Teks (untuk tipe p/bold)", name: "teks", widget: "string", required: false }
+          - label: "Item List (untuk tipe ul/ol)"
+            name: "items"
+            widget: "list"
+            required: false
+            field: { label: "Baris", name: "item", widget: "string" }
+      - { label: "Link PDF (opsional)", name: "pdf", widget: "file", required: false }
+      - { label: "Link Aplikasi/Web Luar (opsional)", name: "appUrl", widget: "string", required: false }
+      - { label: "Label Tombol Link (opsional)", name: "appLabel", widget: "string", required: false }

@@ -1,0 +1,17 @@
+{
+  "id": 6,
+  "kategori": "Kuliner",
+  "nama": "Tempe Kripik Bu Dwi",
+  "usp": null,
+  "deskripsi": "Sejak 2024, Tempe Kripik Bu Dwi telah menyediakan keripik tempe yang diolah rumahan tanpa menggunakan pengawet",
+  "harga": "Mulai dari Rp4000 - Rp 12000",
+  "telepon": "6285702106895",
+  "dusun": "Dusun Sugihan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/64WaGrWUMxcfCLnRA",
+  "slug": "tempe-kripik-bu-dwi",
+  "gambar": [
+    "images/produk/tempe-kripik-bu-dwi/1.jpg",
+    "images/produk/tempe-kripik-bu-dwi/2.jpg",
+    "images/produk/tempe-kripik-bu-dwi/3.jpg"
+  ]
+}

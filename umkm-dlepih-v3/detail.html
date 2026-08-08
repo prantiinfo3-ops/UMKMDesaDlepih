@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Detail UMKM — Desa Dlepih</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <nav class="nav">
+    <a href="index.html" class="brand">
+      <span class="brand-mark"><img src="images/logo-wonogiri.jpg" alt="Logo Kabupaten Wonogiri"></span>
+      <span class="brand-text"><b>UMKM Dlepih</b><span>Tirtomoyo · Wonogiri</span></span>
+    </a>
+    <button class="nav-toggle" aria-label="Buka menu">&#9776;</button>
+    <ul class="nav-links">
+            <li><a href="index.html">Beranda</a></li>
+      <li><a href="profil.html">Profil Desa</a></li>
+      <li><a href="katalog.html">Katalog UMKM</a></li>
+      <li><a href="kabar-dlepih.html">Kabar Dlepih</a></li>
+      <li><a data-wa-admin href="#" target="_blank" rel="noopener"><button class="btn btn-primary btn-sm" style="margin-left:6px;">Hubungi Kami</button></a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="section">
+  <div class="container">
+    <p class="breadcrumb"><a href="index.html">Beranda</a> / <a href="katalog.html">Katalog</a> / Detail UMKM</p>
+
+    <div class="detail-wrap">
+      <div class="detail-slider" id="detail-slider-holder"></div>
+      <div class="detail-info reveal" id="detail-content">
+        <!-- diisi otomatis oleh js/main.js -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--tea">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow">Serupa</span>
+      <h2>UMKM Lain di Kategori yang Sama</h2>
+    </div>
+    <div class="produk-grid" id="produk-lain"></div>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-brand">
+          <span class="brand-mark"><img src="images/logo-wonogiri.jpg" alt="Logo Kabupaten Wonogiri"></span>
+          <span class="brand-text"><b style="color:var(--ivory)">UMKM Dlepih</b></span>
+        </div>
+        <p>Katalog resmi produk UMKM warga Desa Dlepih, Kecamatan Tirtomoyo, Kabupaten Wonogiri, Jawa Tengah.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram">📷</a>
+          <a href="#" aria-label="Facebook">📘</a>
+          <a data-wa-admin href="#" aria-label="WhatsApp">💬</a>
+        </div>
+      </div>
+      <div>
+        <h4>Jelajahi</h4>
+        <ul>
+                <li><a href="index.html">Beranda</a></li>
+      <li><a href="profil.html">Profil Desa</a></li>
+      <li><a href="katalog.html">Katalog UMKM</a></li>
+      <li><a href="kabar-dlepih.html">Kabar Dlepih</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Kategori</h4>
+        <ul>
+          <li><a href="katalog.html?kategori=Kuliner">Kuliner</a></li>
+          <li><a href="katalog.html?kategori=Kerajinan">Kerajinan</a></li>
+          <li><a href="katalog.html?kategori=Hasil Bumi">Hasil Bumi</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Kontak</h4>
+        <ul>
+          <li>Desa Dlepih, Kec. Tirtomoyo</li>
+          <li>Kabupaten Wonogiri, Jawa Tengah</li>
+          <li><a data-wa-admin href="#">Chat WhatsApp Admin</a></li>
+          <li><a data-maps-desa href="#" target="_blank" rel="noopener">Lihat di Google Maps</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © <span id="tahun-footer"></span> UMKM Desa Dlepih — Tirtomoyo, Wonogiri. Dibuat dengan ❤️ untuk warga desa.
+    </div>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

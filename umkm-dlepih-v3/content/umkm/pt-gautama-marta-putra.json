@@ -1,0 +1,17 @@
+{
+  "id": 17,
+  "kategori": "Lainnya",
+  "nama": "PT Gautama Marta Putra",
+  "usp": "Menyediakan ATM mini",
+  "deskripsi": "PT Gautama Marta Putra menyediakan berbagai kebutuhan harian dari makanan ringan hingga ATM Bersama",
+  "harga": "Hubungi penjual",
+  "telepon": null,
+  "dusun": "Dusun Karakan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/iEqAbJJygtv958sg8",
+  "slug": "pt-gautama-marta-putra",
+  "gambar": [
+    "images/produk/pt-gautama-marta-putra/1.jpg",
+    "images/produk/pt-gautama-marta-putra/2.jpg",
+    "images/produk/pt-gautama-marta-putra/3.jpg"
+  ]
+}

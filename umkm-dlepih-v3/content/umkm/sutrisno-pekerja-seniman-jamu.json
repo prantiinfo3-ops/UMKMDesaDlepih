@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "kategori": "Kuliner",
+  "nama": "Sutrisno Pekerja Seniman & Jamu",
+  "usp": "Menggunakan rempah-rempah pilihan dan Fresh dibuat setiap paginya",
+  "deskripsi": "Dengan menggunakan rempah-rempah pilihan, Jamu Sutrisno menyediakan Beras Kencur, Kunyir Asem, Brotowali, dan Sambiroto. Dibandrol mulai harga 2000, kamu sudah bisa merasakan khasiat jamu untuk tubuhmu!",
+  "harga": "Rp 2000 - 4000",
+  "telepon": "6282230966469",
+  "dusun": "Dusun Natah, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/mVAhi21cCVwLTuGP8",
+  "slug": "sutrisno-pekerja-seniman-jamu",
+  "gambar": [
+    "images/produk/sutrisno-pekerja-seniman-jamu/1.jpg",
+    "images/produk/sutrisno-pekerja-seniman-jamu/2.jpg",
+    "images/produk/sutrisno-pekerja-seniman-jamu/3.jpg"
+  ]
+}

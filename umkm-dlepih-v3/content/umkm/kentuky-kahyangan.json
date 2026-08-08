@@ -1,0 +1,17 @@
+{
+  "id": 4,
+  "kategori": "Kuliner",
+  "nama": "Kentuky Kahyangan",
+  "usp": null,
+  "deskripsi": "Kentuky Kahyangan, menjual berbagai menu ayam seperti Ayam Goreng Tepung, Opor Ayam, Ayam Geprek, hingga es kelapa. Menerima pesanan",
+  "harga": "Mulai dari Rp 5000",
+  "telepon": "6285280878916",
+  "dusun": "Dusun Karakan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/VfSYWq8m5dPV3CZq9?g_st=iw",
+  "slug": "kentuky-kahyangan",
+  "gambar": [
+    "images/produk/kentuky-kahyangan/1.jpg",
+    "images/produk/kentuky-kahyangan/2.jpg",
+    "images/produk/kentuky-kahyangan/3.jpg"
+  ]
+}

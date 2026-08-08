@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "slug": "sahabat-balita",
+  "badge": "Inovasi Teknologi",
+  "judul": "Inovasi Pemantauan Tumbuh Kembang Anak Melalui Platform Digital SAHABAT BALITA",
+  "gambar": "images/inovasi/kalkulator-sahabat-balita.jpg",
+  "ringkasan": "Platform digital berbasis Shiny yang membantu orang tua, kader kesehatan, dan masyarakat memantau status gizi serta tumbuh kembang balita secara praktis dan real-time.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Sebagai langkah nyata dalam mendukung peningkatkan kualitas kesehatan generasi muda serta percepatan pencegahan stunting, platform digital SAHABAT BALITA resmi diluncurkan melalui domain interaktif berbasis Shiny. Aplikasi ini dirancang sebagai sarana informasi dan edukasi yang mudah diakses oleh orang tua, kader kesehatan, maupun masyarakat umum. Melalui antarmuka yang intuitif dan ramah pengguna, SAHABAT BALITA menyajikan visualisasi data serta modul pemantauan status gizi dan tumbuh kembang balita secara praktis dan real-time."
+    },
+    {
+      "tipe": "p",
+      "teks": "Platform interaktif ini mengintegrasikan pemetaan data kesehatan dengan fitur analisis terpadu untuk mempermudah deteksi dini indikasi gangguan pertumbuhan pada balita. Selain menyediakan panduan pemenuhan gizi seimbang dan jadwal imunisasi, SAHABAT BALITA juga menjadi instrumen pendukung bagi tenaga kesehatan di tingkat lokal dalam mengambil keputusan berbasis data (data-driven decision). Kehadiran inovasi digital ini diharapkan mampu memperkuat keterlibatan masyarakat serta mendorong sinergi program kesehatan ibu dan anak yang lebih efektif dan berkelanjutan."
+    }
+  ],
+  "pdf": "images/inovasi/SAHABAT_BALITA.pdf",
+  "appUrl": "https://kkndlepih2026.shinyapps.io/SAHABAT_BALITA/",
+  "appLabel": "🔗 Buka Web SAHABAT BALITA"
+}

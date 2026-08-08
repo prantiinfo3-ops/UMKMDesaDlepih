@@ -1,0 +1,17 @@
+{
+  "id": 20,
+  "kategori": "Hasil Bumi",
+  "nama": "Warung & Rempah Mba Triya",
+  "usp": null,
+  "deskripsi": "Warung & Rempah Mba Triya menyediakan berbagai rempah-rempah seperti Kunyit, Jahe, berbagai jenis Lengkuas, dan lainnya yang dapat dikirim hingga keluar provinsi Jawa Tengah",
+  "harga": "Mulai dari Rp 6.500",
+  "telepon": "6285842018714",
+  "dusun": "Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/tfpmQJnM3rfR6PvX8",
+  "slug": "warung-rempah-mba-triya",
+  "gambar": [
+    "images/produk/warung-rempah-mba-triya/1.jpg",
+    "images/produk/warung-rempah-mba-triya/2.jpg",
+    "images/produk/warung-rempah-mba-triya/3.jpg"
+  ]
+}

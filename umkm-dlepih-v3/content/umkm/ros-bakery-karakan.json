@@ -1,0 +1,17 @@
+{
+  "id": 24,
+  "kategori": "Kuliner",
+  "nama": "Ros Bakery Karakan",
+  "usp": null,
+  "deskripsi": "Ros Bakery Karakan menyediakan berbagai hidangan penutup seperti Risol, bolu kukus, brownies, hingga kue ulang tahun",
+  "harga": "Rp 25.000 - Rp 200.000",
+  "telepon": "6285257006375",
+  "dusun": "Dusun Karakan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/wKJaqRHXABdgU2EC9",
+  "slug": "ros-bakery-karakan",
+  "gambar": [
+    "images/produk/ros-bakery-karakan/1.jpg",
+    "images/produk/ros-bakery-karakan/2.jpg",
+    "images/produk/ros-bakery-karakan/3.jpg"
+  ]
+}

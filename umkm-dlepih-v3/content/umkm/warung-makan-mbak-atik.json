@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "kategori": "Kuliner",
+  "nama": "Warung Makan Mbak Atik",
+  "usp": null,
+  "deskripsi": "Warung Makan Mbak Atik menyediakan berbagai masakan rumahan dengan menu bervariasi dan berganti setiap harinya dengan cita rasa rumahan yang khas",
+  "harga": "Mulai dari Rp3000",
+  "telepon": "6282323817130",
+  "dusun": "Dusun Karakan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/LKRbaoAyZSxknuXQ7",
+  "slug": "warung-makan-mbak-atik",
+  "gambar": [
+    "images/produk/warung-makan-mbak-atik/1.jpg",
+    "images/produk/warung-makan-mbak-atik/2.jpg",
+    "images/produk/warung-makan-mbak-atik/3.jpg"
+  ]
+}

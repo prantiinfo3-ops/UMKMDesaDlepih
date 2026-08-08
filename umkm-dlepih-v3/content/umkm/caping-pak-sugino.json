@@ -1,0 +1,17 @@
+{
+  "id": 11,
+  "kategori": "Kerajinan",
+  "nama": "Caping Pak Sugino",
+  "usp": "Dibuat dari bambu pilihan dan anyaman terbaik",
+  "deskripsi": "Caping Pak Sugino, sejak 1979, telah membuat caping berkualitas dengan metode anyaman terbaik dan bambu pilihan",
+  "harga": "Mulai dari 13.000",
+  "telepon": null,
+  "dusun": "Dusun Sugihan, Desa Dlepih",
+  "maps": "https://goo.gl/maps/gz8iDDZFhPZynvHQA",
+  "slug": "caping-pak-sugino",
+  "gambar": [
+    "images/produk/caping-pak-sugino/1.jpg",
+    "images/produk/caping-pak-sugino/2.jpg",
+    "images/produk/caping-pak-sugino/3.jpg"
+  ]
+}

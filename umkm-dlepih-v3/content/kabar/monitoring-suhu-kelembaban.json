@@ -1,0 +1,21 @@
+{
+  "id": 5,
+  "slug": "monitoring-suhu-kelembaban",
+  "badge": "Inovasi Teknologi",
+  "judul": "Monitoring Suhu dan Kelembaban Udara",
+  "gambar": "images/inovasi/monitoring suhu dan kelembaban udara.jpg",
+  "ringkasan": "Prototipe alat pemantau suhu dan kelembapan udara berbasis Arduino Uno untuk membantu peternak lele menjaga kondisi lingkungan kolam tetap optimal.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Alat monitoring suhu dan kelembaban merupakan prototipe sistem monitoring suhu dan kelembapan udara berbasis Arduino Uno yang dirancang untuk membantu memantau kondisi lingkungan pada area kolam budidaya lele. Sistem menggunakan sensor DHT11 untuk mendeteksi suhu dan kelembaban udara secara real-time. Data hasil pengukuran ditampilkan melalui LCD 16x2 I2C, sehingga kondisi lingkungan dapat dipantau dengan mudah. Selain itu, sistem dilengkapi buzzer sebagai indikator peringatan ketika suhu berada di luar rentang yang telah ditentukan, yaitu di bawah 20°C atau di atas 35°C. Komponen pendukung yang digunakan meliputi Arduino Uno, DHT11, LCD 16x2 I2C, buzzer, breadboard, dan kabel jumper."
+    },
+    {
+      "tipe": "p",
+      "teks": "Prototipe ini ditujukan untuk UMKM budidaya lele sebagai salah satu bentuk pemberdayaan UMKM melalui pemanfaatan teknologi sederhana. Permasalahan yang ditemukan pada UMKM adalah adanya risiko kematian ikan yang salah satunya dapat dipengaruhi oleh kondisi lingkungan yang kurang optimal, terutama perubahan suhu. Dengan adanya sistem monitoring ini, pelaku UMKM dapat mengetahui kondisi suhu dan kelembapan udara secara lebih cepat serta memperoleh peringatan ketika suhu berada pada kondisi abnormal. Penerapan alat diharapkan dapat membantu pelaku UMKM dalam melakukan pemantauan kolam secara lebih efektif, meningkatkan kesadaran terhadap pentingnya kondisi lingkungan budidaya, serta mendukung upaya mengurangi risiko kerugian akibat kematian ikan."
+    }
+  ],
+  "pdf": null,
+  "appUrl": null,
+  "appLabel": null
+}

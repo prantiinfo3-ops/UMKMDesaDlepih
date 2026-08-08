@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "kategori": "Kuliner",
+  "nama": "Angkringan Brotherhood",
+  "usp": null,
+  "deskripsi": "Angkiran Brotherhood menyediakan berbagai makanan dan minuman  ringan untuk  menemani malammu seperti gorengan, nasi kucing, wedang jahe, bajigur, dan lainnya. ",
+  "harga": "Mulai dari Rp2000",
+  "telepon": "6282314723402",
+  "dusun": "Dusun Karakan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/rUFwj5cURihTtkLL8",
+  "slug": "angkringan-brotherhood",
+  "gambar": [
+    "images/produk/angkringan-brotherhood/1.jpg",
+    "images/produk/angkringan-brotherhood/2.jpg",
+    "images/produk/angkringan-brotherhood/3.jpg"
+  ]
+}

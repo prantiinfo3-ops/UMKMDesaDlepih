@@ -1,0 +1,17 @@
+{
+  "id": 7,
+  "kategori": "Kuliner",
+  "nama": "Agung Jaya (Tempe)",
+  "usp": "Menggunakan daun jati sebagai pembungkus yang menjaga cita rasa tempe",
+  "deskripsi": "Agung Jaya menyediakan hasil olahan kedelai berupa tempe yang dibungkus dengan menggunakan daun pohon jati, membuat rasa tetap terjaga dan proses fermentasi terjadi dengan lebih baik!",
+  "harga": "Rp 500/pcs",
+  "telepon": "6281325727506",
+  "dusun": "Dusun Sugihan, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/VMUvBoxtHiQUV4ZJA",
+  "slug": "agung-jaya-tempe",
+  "gambar": [
+    "images/produk/agung-jaya-tempe/1.jpg",
+    "images/produk/agung-jaya-tempe/2.jpg",
+    "images/produk/agung-jaya-tempe/3.jpg"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4,
+  "slug": "regulasi-emosi-anak",
+  "badge": "Edukasi Anak",
+  "judul": "Edukasi Perkembangan dan Regulasi Emosi Anak",
+  "gambar": "images/inovasi/VHIRA.jpeg",
+  "ringkasan": "Edukasi bagi kader PKK se-Kecamatan Tirtomoyo dan penyuluhan bagi ibu-ibu Dusun Bengle mengenai tahapan perkembangan emosi, motorik, dan stimulasi sensorik anak.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Pada 1 Agustus 2026, TIM II KKN Universitas Diponegoro Tahun 2026 melaksanakan edukasi \"Pahami Fasenya, Dampingi Tumbuhnya: Mengenal Perkembangan dan Regulasi Emosi Anak\" kepada kader PKK se-Kecamatan Tirtomoyo. Kegiatan ini bertujuan membekali kader dengan pemahaman mengenai tahapan perkembangan emosi anak, kebutuhan anak pada setiap usia, serta cara orang tua mendampingi dan merespons perilaku anak. Kader PKK berperan sebagai fasilitator, edukator, dan pendamping bagi orang tua di masyarakat sehingga diharapkan dapat membantu keluarga memahami perkembangan anak secara lebih tepat."
+    },
+    {
+      "tipe": "p",
+      "teks": "Edukasi dilanjutkan pada 3 Agustus 2026 oleh TIM II KKN UNDIP untuk Desa Dlepih, melalui program Pemberdayaan dan Digitalisasi Kesehatan Masyarakat pada Integritas Layanan Primer di Desa Dlepih, salah satunya berupa penyuluhan perkembangan motorik dan stimulasi sensorik anak kepada kelompok ibu dan balita Dusun Bengle, Desa Dlepih. Orang tua dikenalkan bahwa perkembangan anak tidak hanya berkaitan dengan tinggi dan berat badan, tetapi juga kemampuan bergerak serta menerima dan merespons rangsangan dari lingkungan. Perkembangan motorik mencakup motorik kasar dan halus, sedangkan sensorik berkaitan dengan kemampuan anak menerima informasi melalui pancaindra dan tubuh."
+    },
+    {
+      "tipe": "p",
+      "teks": "Dalam kegiatan tersebut, orang tua juga mengikuti workshop stimulasi menggunakan media sederhana, seperti kertas untuk melatih motorik dan botol berisi beras untuk memberikan stimulasi sensorik. Kegiatan ini menunjukkan bahwa stimulasi perkembangan anak tidak harus menggunakan alat yang mahal, tetapi dapat dilakukan melalui aktivitas bermain dan benda-benda yang mudah ditemukan di rumah. Kegiatan sehari-hari pun dapat menjadi kesempatan bagi anak untuk belajar melalui gerakan dan pancaindra."
+    },
+    {
+      "tipe": "p",
+      "teks": "Melalui rangkaian kegiatan tersebut, TIM II KKN Universitas Diponegoro Tahun 2026 untuk Desa Dlepih berupaya memperkuat kapasitas masyarakat dalam mendampingi tumbuh kembang anak. Pembekalan kepada kader PKK menjadi langkah awal untuk memperluas pemahaman di masyarakat, sementara kegiatan bersama ibu dan balita di Desa Dlepih menjadi bentuk penerapan stimulasi perkembangan yang sederhana dan dapat dilakukan secara mandiri di rumah."
+    }
+  ],
+  "pdfList": [
+    {
+      "label": "📄 Unduh Materi Motorik dan Sensorik",
+      "href": "images/inovasi/Materi Motorik dan Sensorik.pdf"
+    },
+    {
+      "label": "📄 Unduh Materi Regulasi Emosi untuk Orangtua",
+      "href": "images/inovasi/Materi Regulasi Emosi untuk Orangtua.pdf"
+    }
+  ],
+  "pdf": null,
+  "appUrl": null,
+  "appLabel": null
+}

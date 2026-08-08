@@ -1,0 +1,49 @@
+{
+  "id": 7,
+  "slug": "pendaftaran-tanah",
+  "badge": "Legalitas Tanah",
+  "judul": "Pendaftaran Tanah",
+  "gambar": "images/inovasi/tanah.jpeg",
+  "ringkasan": "Panduan lengkap prosedur pendaftaran sertifikat tanah, baik secara offline maupun online melalui aplikasi Sentuh Tanahku, untuk memastikan perlindungan hukum atas kepemilikan tanah.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Pendaftaran tanah merupakan hal yang sangat krusial untuk memastikan perlindungan hukum atas kepemilikan tanah. Masyarakat yang tidak mendaftarkan tanahnya akan memiliki kemungkinan untuk bersengketa dengan pihak lainnya, baik warga setempat maupun pemerintah. Dasar hukum utama pendaftaran tanah termuat dalam Pasal 19 Undang-Undang Nomor 5 Tahun 1960 tentang Pokok-Pokok Agraria, yang mengatur bahwa Pemerintah menyelenggarakan pendaftaran tanah di seluruh wilayah Republik Indonesia — meliputi pengukuran dan pembukuan tanah, pendaftaran hak-hak atas tanah beserta peralihannya, hingga pemberian surat tanda bukti hak yang berlaku sebagai alat pembuktian yang kuat."
+    },
+    {
+      "tipe": "bold",
+      "teks": "Dokumen yang diperlukan untuk membuat sertifikat tanah secara OFFLINE:"
+    },
+    {
+      "tipe": "ul",
+      "items": [
+        "Sertifikat asli Hak Guna Bangunan (HGB)",
+        "Fotokopi Izin Mendirikan Bangunan (IMB)",
+        "Identitas diri berupa KTP dan KK",
+        "Surat Pemberitahuan Pajak Terutang (SPPT) PBB",
+        "Jika diperoleh melalui warisan, harus melampirkan surat pernyataan ahli waris yang disaksikan 2 orang saksi dan diketahui oleh lurah/kades serta camat tempat almarhum terakhir berdomisili",
+        "Jika tanah warisan telah dibagi, harus melampirkan surat asli pernyataan pembagian/penyerahan harta warisan yang ditandatangani ahli waris, disaksikan 2 orang saksi, dan diketahui lurah/kades serta camat lokasi tanah — atau dibuat di hadapan notaris"
+      ]
+    },
+    {
+      "tipe": "bold",
+      "teks": "Prosedur pendaftaran sertifikat tanah secara ONLINE:"
+    },
+    {
+      "tipe": "ol",
+      "items": [
+        "Install aplikasi SENTUH TANAHKU di Google Play Store atau App Store",
+        "Daftar akun baru menggunakan username dan password",
+        "Lakukan aktivasi dengan NIK pada kantor BPN terdekat",
+        "Setorkan dokumen persyaratan",
+        "Buat janji dengan petugas untuk mengukur tanah sesuai dokumen yang telah disetorkan",
+        "Pemohon membayar Bea Perolehan Hak Atas Tanah (BPHTB)",
+        "Sertifikat tanah akan terbit pada setengah hingga satu tahun setelah pengajuan",
+        "Periksa status sertifikat tanah melalui aplikasi SENTUH TANAHKU"
+      ]
+    }
+  ],
+  "pdf": "images/inovasi/ALUR PENDAFTARAN TANAH.pdf",
+  "appUrl": null,
+  "appLabel": null
+}

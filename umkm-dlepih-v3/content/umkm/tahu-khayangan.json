@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "kategori": "Kuliner",
+  "nama": "Tahu Khayangan",
+  "usp": null,
+  "deskripsi": "Sejak 2018, Tahu Khayangan telah memproduksi berbagai olahan tahu seperti Tahu Puth, Tahu Kuning, dan Tahu Goreng yang dibuat dengan kedelai pilihan",
+  "harga": "Hubungi penjual",
+  "telepon": "6281234567890",
+  "dusun": "Dusun Dlepih, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/nAVT95CTrVcqo7oz5",
+  "slug": "tahu-khayangan",
+  "gambar": [
+    "images/produk/tahu-khayangan/1.jpg",
+    "images/produk/tahu-khayangan/2.jpg",
+    "images/produk/tahu-khayangan/3.jpg"
+  ]
+}

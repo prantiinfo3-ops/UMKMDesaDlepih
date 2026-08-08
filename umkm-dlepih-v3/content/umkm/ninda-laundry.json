@@ -1,0 +1,17 @@
+{
+  "id": 19,
+  "kategori": "Lainnya",
+  "nama": "Ninda Laundry",
+  "usp": "Penjemuran menggunakan sinar matahari sehingga tidak merusak serat kain",
+  "deskripsi": "Ninda Laundry menyediakan jasa laundry pakaian, bedcover, selimut, hingga boneka yang dijemur di bawah sinar matahari hingga tidak merusak serat kain",
+  "harga": "Mulai Rp 6000/kg",
+  "telepon": "6285712239838",
+  "dusun": "Dusun Bangunsari, Desa Dlepih",
+  "maps": "https://maps.app.goo.gl/YELAVYBxmQgbEiLk6",
+  "slug": "ninda-laundry",
+  "gambar": [
+    "images/produk/ninda-laundry/1.jpg",
+    "images/produk/ninda-laundry/2.jpg",
+    "images/produk/ninda-laundry/3.jpg"
+  ]
+}

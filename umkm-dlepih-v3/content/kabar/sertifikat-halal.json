@@ -1,0 +1,31 @@
+{
+  "id": 6,
+  "slug": "sertifikat-halal",
+  "badge": "Legalitas Usaha",
+  "judul": "Sertifikat Halal untuk UMKM",
+  "gambar": "images/inovasi/NARA.jpg",
+  "ringkasan": "Panduan langkah-langkah pengajuan sertifikat halal bagi pelaku UMKM melalui SIHALAL, untuk meningkatkan kepercayaan dan nilai jual produk.",
+  "isi": [
+    {
+      "tipe": "p",
+      "teks": "Bagi para pelaku usaha, sertifikat halal merupakan salah satu faktor pendorong meningkatnya kepercayaan konsumen, nilai produk, serta meningkatnya jumlah konsumen. Sertifikat halal adalah pengakuan resmi kehalalan suatu produk yang diterbitkan oleh Badan Penyelenggara Jaminan Produk Halal (BPJPH) berdasarkan fatwa halal tertulis dari Majelis Ulama Indonesia (MUI)."
+    },
+    {
+      "tipe": "p",
+      "teks": "Pendaftaran halal bisa dilakukan secara online di laman ptsp.halal.go.id (atau cari SIHALAL di google) dengan proses sertifikasi total 21 hari. Adapun langkah pendaftaran hingga penerbitan sertifikat halal adalah sebagai berikut:"
+    },
+    {
+      "tipe": "ol",
+      "items": [
+        "Pelaku usaha melakukan permohonan sertifikasi halal dengan kelengkapan dokumen: data pelaku usaha, nama dan jenis produk, pengolahan produk, daftar produk dan bahan yang digunakan, serta dokumen sistem jaminan produk halal.",
+        "BPJPH akan mengecek kelengkapan dokumen dan menetapkan lembaga pemeriksa halalnya dalam 2 hari kerja.",
+        "LPH (Lembaga Pemeriksa Halal) akan memeriksa dan/atau menguji kehalalan produk dalam 15 hari kerja.",
+        "MUI akan menetapkan kehalalan produk melalui sidang fatwa halal dalam 3 hari kerja.",
+        "BPJPH akan menerbitkan sertifikat halal dalam 1 hari kerja."
+      ]
+    }
+  ],
+  "pdf": "images/inovasi/ALUR PENDAFTARAN SERTIFIKAT HALAL.pdf",
+  "appUrl": null,
+  "appLabel": null
+}

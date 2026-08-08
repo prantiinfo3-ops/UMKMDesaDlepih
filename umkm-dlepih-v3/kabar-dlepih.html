@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kabar Dlepih — UMKM Desa Dlepih</title>
+<meta name="description" content="Kabar, inovasi, dan materi program pemberdayaan UMKM Desa Dlepih, Kecamatan Tirtomoyo, Kabupaten Wonogiri.">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  /* ===== Detail toggle untuk paragraf penjelasan Kabar Dlepih ===== */
+  .kabar-lead{margin-bottom:0;}
+  .kabar-detail{margin:14px 0 4px;border-top:1px solid rgba(0,0,0,.08);padding-top:12px;}
+  .kabar-detail summary{
+    cursor:pointer;list-style:none;display:flex;align-items:center;gap:8px;
+    font-weight:700;color:#A43032;font-size:.95rem;user-select:none;
+  }
+  .kabar-detail summary::-webkit-details-marker{display:none;}
+  .kabar-detail summary::before{content:'📖';font-size:1rem;}
+  .kabar-detail summary::after{content:'▾';margin-left:auto;font-size:.8rem;transition:transform .2s ease;}
+  .kabar-detail[open] summary::after{transform:rotate(180deg);}
+  .kabar-detail-body{padding-top:12px;}
+  .kabar-detail-body p{margin-bottom:12px;color:var(--ink-soft,#5c5c52);}
+  .kabar-detail-body ul,
+  .kabar-detail-body ol{margin:0 0 14px 20px;color:var(--ink-soft,#5c5c52);}
+  .kabar-detail-body li{margin-bottom:6px;}
+  .kabar-card-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;}
+  .kabar-link-app{
+    display:inline-flex;align-items:center;gap:6px;
+    background:#828700;color:#FFFAE9;border:none;
+  }
+  .kabar-link-app:hover{filter:brightness(1.08);}
+</style>
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <nav class="nav">
+    <a href="index.html" class="brand">
+      <span class="brand-mark"><img src="images/logo-wonogiri.jpg" alt="Logo Kabupaten Wonogiri"></span>
+      <span class="brand-text"><b>UMKM Dlepih</b><span>Tirtomoyo · Wonogiri</span></span>
+    </a>
+    <button class="nav-toggle" aria-label="Buka menu">&#9776;</button>
+    <ul class="nav-links">
+            <li><a href="index.html">Beranda</a></li>
+      <li><a href="profil.html">Profil Desa</a></li>
+      <li><a href="katalog.html">Katalog UMKM</a></li>
+      <li><a href="kabar-dlepih.html">Kabar Dlepih</a></li>
+      <li><a data-wa-admin href="#" target="_blank" rel="noopener"><button class="btn btn-primary btn-sm" style="margin-left:6px;">Hubungi Kami</button></a></li>
+    </ul>
+  </nav>
+</header>
+
+<!-- ===== HERO KABAR DLEPIH ===== -->
+<section class="profile-hero">
+  <div class="container">
+    <span class="eyebrow" style="justify-content:center;">Kabar Desa</span>
+    <h1>Inovasi dan Berita Seputar Desa Dlepih</h1>
+    <p>Program dan gagasan baru dari Desa Dlepih, untuk Desa Dlepih</p>
+  </div>
+</section>
+
+<!-- ===== GRID KABAR DLEPIH ===== -->
+<section class="section">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow">7 Materi</span>
+      <h2>Kabar &amp; Inovasi Desa Dlepih</h2>
+      <p>Setiap materi bisa diunduh dalam format PDF untuk dipelajari atau dibagikan ke warga lain.</p>
+    </div>
+
+    <div class="kabar-grid" id="kabar-grid">
+      <!-- diisi otomatis oleh js/main.js dari KABAR_DATA (js/data.js) -->
+    </div>
+  </div>
+</section>
+
+<!-- ===== CTA KONTAK ===== -->
+<section class="section section--peach" id="kontak">
+  <div class="container" style="text-align:center;">
+    <span class="eyebrow" style="justify-content:center;">Punya Ide Inovasi?</span>
+    <h2 style="max-width:560px;margin:0 auto 18px;">Sampaikan Gagasanmu untuk Desa Dlepih</h2>
+    <p style="max-width:520px;margin:0 auto 26px;color:var(--ink-soft);">Hubungi admin melalui WhatsApp untuk mengusulkan program atau inovasi baru bagi UMKM Desa Dlepih.</p>
+    <a class="btn btn-primary" target="_blank" rel="noopener" data-wa-admin href="#">💬 Hubungi Admin via WhatsApp</a>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-brand">
+          <span class="brand-mark"><img src="images/logo-wonogiri.jpg" alt="Logo Kabupaten Wonogiri"></span>
+          <span class="brand-text"><b style="color:var(--ivory)">UMKM Dlepih</b></span>
+        </div>
+        <p>Katalog resmi produk UMKM warga Desa Dlepih, Kecamatan Tirtomoyo, Kabupaten Wonogiri, Jawa Tengah.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram">📷</a>
+          <a href="#" aria-label="Facebook">📘</a>
+          <a data-wa-admin href="#" aria-label="WhatsApp">💬</a>
+        </div>
+      </div>
+      <div>
+        <h4>Jelajahi</h4>
+        <ul>
+                <li><a href="index.html">Beranda</a></li>
+      <li><a href="profil.html">Profil Desa</a></li>
+      <li><a href="katalog.html">Katalog UMKM</a></li>
+      <li><a href="kabar-dlepih.html">Kabar Dlepih</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Kategori</h4>
+        <ul>
+          <li><a href="katalog.html?kategori=Kuliner">Kuliner</a></li>
+          <li><a href="katalog.html?kategori=Kerajinan">Kerajinan</a></li>
+          <li><a href="katalog.html?kategori=Hasil Bumi">Hasil Bumi</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Kontak</h4>
+        <ul>
+          <li>Desa Dlepih, Kec. Tirtomoyo</li>
+          <li>Kabupaten Wonogiri, Jawa Tengah</li>
+          <li><a data-wa-admin href="#">Chat WhatsApp Admin</a></li>
+          <li><a data-maps-desa href="#" target="_blank" rel="noopener">Lihat di Google Maps</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      © <span id="tahun-footer"></span> UMKM Desa Dlepih — TIM II KKN UNDIP 2026. Dibuat dengan ❤️ untuk warga desa.
+    </div>
+  </div>
+</footer>
+
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
