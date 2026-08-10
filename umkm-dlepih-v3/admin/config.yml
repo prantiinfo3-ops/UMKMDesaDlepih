@@ -19,6 +19,8 @@ collections:
     folder: "content/umkm"
     create: true
     slug: "{{slug}}"
+    extension: "json"
+    format: "json"
     fields:
       - { label: "ID", name: "id", widget: "number", required: false, hint: "Biarkan kosong untuk item baru, isi angka unik" }
       - { label: "Nama Usaha", name: "nama", widget: "string" }
@@ -43,6 +45,8 @@ collections:
     folder: "content/kabar"
     create: true
     slug: "{{slug}}"
+    extension: "json"
+    format: "json"
     fields:
       - { label: "ID", name: "id", widget: "number", required: false, hint: "Biarkan kosong untuk item baru, isi angka unik" }
       - { label: "Slug (untuk URL)", name: "slug", widget: "string" }
