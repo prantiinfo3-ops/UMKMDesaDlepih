@@ -10,13 +10,13 @@ backend:
   repo: prantiinfo3-ops/tesssaaaaaaa
   branch: main
 
-media_folder: "images/cms-uploads"
+media_folder: "umkm-dlepih-v3/images/cms-uploads"
 public_folder: "/images/cms-uploads"
 
 collections:
   - name: "umkm"
     label: "Katalog UMKM"
-    folder: "content/umkm"
+    folder: "umkm-dlepih-v3/content/umkm"
     create: true
     slug: "{{slug}}"
     extension: "json"
@@ -42,7 +42,7 @@ collections:
 
   - name: "kabar"
     label: "Kabar Dlepih"
-    folder: "content/kabar"
+    folder: "umkm-dlepih-v3/content/kabar"
     create: true
     slug: "{{slug}}"
     extension: "json"
