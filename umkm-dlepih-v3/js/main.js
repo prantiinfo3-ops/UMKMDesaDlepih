@@ -379,6 +379,7 @@ function initKabarDetail(){
 /* ---------- Isi statistik & footer link dinamis ---------- */
 function initGlobalWidgets(){
   document.querySelectorAll("[data-total-umkm]").forEach(elm=> elm.textContent = UMKM_DATA.length);
+   document.querySelectorAll("[data-total-kabar]").forEach(elm=> elm.textContent = KABAR_DATA.length);
   document.querySelectorAll("[data-total-kategori]").forEach(elm=> elm.textContent = new Set(UMKM_DATA.map(i=>i.kategori)).size);
   document.querySelectorAll("[data-wa-admin]").forEach(a=> a.href = waLink(KONFIG.nomorWaAdmin, "Halo, saya ingin bertanya seputar UMKM Desa Dlepih."));
   document.querySelectorAll("[data-maps-desa]").forEach(a=> a.href = KONFIG.linkMapsDesa);
