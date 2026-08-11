@@ -7,7 +7,7 @@
 
 backend:
   name: github
-  repo: prantiinfo3-ops/tesssaaaaaaa
+  repo: prantiinfo3-ops/UMKMDesaDlepih
   branch: main
 
 media_folder: "umkm-dlepih-v3/images/cms-uploads"
