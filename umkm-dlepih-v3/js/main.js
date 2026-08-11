@@ -10,7 +10,7 @@ const KONFIG = {
   namaDesa: "Dlepih",
   kecamatan: "Tirtomoyo",
   kabupaten: "Wonogiri",
-  nomorWaAdmin: "6287765893536",      // nomor WA pengelola web / admin UMKM
+  nomorWaAdmin: "6281392469139",      // nomor WA pengelola web / admin UMKM
   linkMapsDesa: "https://maps.app.goo.gl/2vrJtMWhgRKEaRxs6", // ganti dengan titik lokasi Balai Desa Dlepih
 
 };
